@@ -10,3 +10,5 @@ For extracting the GoogLeNet features, we follow:
 http://nbviewer.jupyter.org/github/BVLC/caffe/blob/master/examples/00-classification.ipynb
 
 The name of the network should be [CAFFE_ROOT] + 'models/bvlc_googlenet/bvlc_googlenet.caffemodel'.
+
+Note that for the 1000 seen classes, we extract features from images in ILSVRC2012. For the 20842 unseen classes, we extract features from images in ImageNet2011release.
