@@ -1,9 +1,9 @@
 # Zero-shot-learning
-We provide data and extra details w.r.t. our CVPR 2016 paper
+We provide extra details w.r.t. our CVPR 2016 paper:
 
-Soravit Changpinyo*, Wei-Lun Chao*, Boqing Gong, and Fei Sha, "Synthesized classifiers for zero-shot learning," CVPR, 2016
+Soravit Changpinyo*, Wei-Lun Chao*, Boqing Gong, and Fei Sha, "Synthesized classifiers for zero-shot learning," CVPR, 2016.
 
-You can find links to our paper and the supplementary material via:
+You can find links to our paper and the supplementary material via
 
 http://www-scf.usc.edu/~schangpi/index.html
 
