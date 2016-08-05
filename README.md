@@ -7,7 +7,7 @@ https://www.dropbox.com/s/oltpprntkjjspgn/ConSE.zip?dl=0
 
 We provide the GoogLeNet features for three datasets (AwA, CUB, and SUN) in SynC.zip.
 
-Note that on SUN, which has 717 classes in total, we split into ~646 seen classes and ~71 unseen classes, following Lampert et al., PAMI 2014. This is a much harder task than some other work that works on only 10 unseen classes. The results of our method on such a simpler task are in the Suppl., where we have accuracy around 90%.
+Note that on SUN, which has 717 classes in total, we split into ~646 seen classes and ~71 unseen classes, following Lampert et al., PAMI 2014. This is a much harder task than some other work that tests on only 10 unseen classes. The results of our method on such a simpler task are in the Suppl., where we have accuracy around 90%.
 
 Feel free to contact me and let me know if you have any question about the codes.
 (Email: weilunchao760414@gmail.com)
