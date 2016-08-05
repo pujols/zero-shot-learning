@@ -1,4 +1,4 @@
-# Zero-shot-learning codes
+# Zero-shot learning codes
 You can now download the codes from the following link:
 https://www.dropbox.com/s/o2pv99zkp58lr1q/SynC.zip?dl=0
 
