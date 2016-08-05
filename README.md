@@ -1,4 +1,14 @@
-## Zero-shot-learning
+# Zero-shot-learning codes
+You can now download the codes from the following link:
+https://www.dropbox.com/s/o2pv99zkp58lr1q/SynC.zip?dl=0
+
+You can also download a baseline method ConSE from:
+https://www.dropbox.com/s/oltpprntkjjspgn/ConSE.zip?dl=0
+
+Please feel free to contact me and let me know if you any question about the codes.
+email: weilunchao760414@gmail.com
+
+# Extra details
 Here we provide extra details for our CVPR 2016 paper:
 
 Soravit Changpinyo, Wei-Lun Chao, Boqing Gong, and Fei Sha, "Synthesized classifiers for zero-shot learning," CVPR, 2016.
@@ -9,12 +19,12 @@ http://www-scf.usc.edu/~schangpi/index.html
 
 http://www-scf.usc.edu/~weilunc/index.html
 
-# Class splitting and semantic information
+## Class splitting and semantic information
 We provide the details of classes (seen, 2-hop, 3-hop, All) for the ImageNet zero-shot learning task as well as the word vectors in ImageNet_w2v.zip
 
 You can also download it from https://www.dropbox.com/s/f9p3u6883xmt58k/ImageNet_w2v.zip?dl=0
 
-# Features
+## Features
 For extracting the GoogLeNet features, we follow:
 
 http://nbviewer.jupyter.org/github/BVLC/caffe/blob/master/examples/00-classification.ipynb
