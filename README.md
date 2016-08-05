@@ -5,7 +5,7 @@ https://www.dropbox.com/s/o2pv99zkp58lr1q/SynC.zip?dl=0
 You can also download a baseline method ConSE from:
 https://www.dropbox.com/s/oltpprntkjjspgn/ConSE.zip?dl=0
 
-Please feel free to contact me and let me know if you any question about the codes.
+Please feel free to contact me and let me know if you have any question about the codes.
 email: weilunchao760414@gmail.com
 
 # Extra details
