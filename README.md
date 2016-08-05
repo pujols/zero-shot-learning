@@ -1,9 +1,11 @@
-# Zero-shot learning codes
-You can now download the codes from the following link:
+# Zero-shot learning codes & data
+You can now download the codes (SynC.zip) from the following link:
 https://www.dropbox.com/s/o2pv99zkp58lr1q/SynC.zip?dl=0
 
-You can also download a baseline method ConSE from:
+You can also download a baseline method ConSE (ConSE.zip) from:
 https://www.dropbox.com/s/oltpprntkjjspgn/ConSE.zip?dl=0
+
+We provide the GoogLeNet features for three datasets (AwA, CUB, and SUN) in SynC.zip.
 
 Please feel free to contact me and let me know if you have any question about the codes.
 email: weilunchao760414@gmail.com
