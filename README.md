@@ -7,8 +7,8 @@ https://www.dropbox.com/s/oltpprntkjjspgn/ConSE.zip?dl=0
 
 We provide the GoogLeNet features for three datasets (AwA, CUB, and SUN) in SynC.zip.
 
-Please feel free to contact me and let me know if you have any question about the codes.
-email: weilunchao760414@gmail.com
+Feel free to contact me and let me know if you have any question about the codes.
+(Email: weilunchao760414@gmail.com)
 
 # Extra details
 Here we provide extra details for our CVPR 2016 paper:
