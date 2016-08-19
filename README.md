@@ -1,3 +1,6 @@
+# Modification history
+8/19/2016: correction for SynC.zip
+
 # Zero-shot learning codes & data
 You can now download the codes (SynC.zip):
 https://www.dropbox.com/s/astjerjdgcfc5e7/SynC.zip?dl=0
