@@ -3,7 +3,7 @@
 
 # Zero-shot learning codes & data
 You can now download the codes (SynC.zip):
-https://www.dropbox.com/s/astjerjdgcfc5e7/SynC.zip?dl=0
+https://www.dropbox.com/s/t3j3cm0biiufy9q/SynC.zip?dl=0
 
 You can also download a baseline method ConSE (ConSE.zip):
 https://www.dropbox.com/s/oltpprntkjjspgn/ConSE.zip?dl=0
