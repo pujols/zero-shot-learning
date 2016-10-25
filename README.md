@@ -1,5 +1,6 @@
 # Modification history
 10/25/2016: update the Demo code to clarify the hyper-parameter range
+
 8/19/2016: correction for SynC.zip
 
 # Zero-shot learning codes & data
