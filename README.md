@@ -1,4 +1,4 @@
-# Please be reffered to our [new repository](https://github.com/pujols/Zero-shot-learning-journal)
+# Please be reffered to our [new repository](https://github.com/pujols/Zero-shot-learning-journal) for codes of generalized zero-shot learning (GZSL).
 
 # Modification history
 10/25/2016: update the Demo code to clarify the hyper-parameter range
